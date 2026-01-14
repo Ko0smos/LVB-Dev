@@ -1,2 +1,6 @@
 # LVB-Dev
 Repository containing LongVideoBench information
+
+## LongVideoBench Resources
+
+- arXiv:2407.15754, https://huggingface.co/datasets/longvideobench/LongVideoBench, https://github.com/longvideobench/LongVideoBench
